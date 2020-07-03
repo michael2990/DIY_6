@@ -1,0 +1,12 @@
+	{
+		"salesId": "4402Siva Mat243282001-05-22T14:22:07",
+		"id": "ABC-1234",
+		"firstName": "John",
+		"lastName": "Doe",
+		"address": "123 Main St., Dallas TX",
+		"postal": "77777",
+		"country": "US",
+		"miles": 999,
+		"creationDate": "2019-08-21T04:34:41.098Z",
+		"type": "Personal"
+	}
